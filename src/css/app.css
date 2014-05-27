@@ -1,0 +1,9 @@
+body {
+  background-color: #CCC;
+}
+.app {
+  width: 800px;
+  height: 100%;
+  margin: 0 auto;
+  background-color: #EEE;
+}

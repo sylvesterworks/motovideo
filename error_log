@@ -1,0 +1,16 @@
+[24-Apr-2014 15:51:10] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in - on line 381
+[24-Apr-2014 15:51:10] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[24-Apr-2014 15:51:41] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in - on line 381
+[24-Apr-2014 15:51:41] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[24-Apr-2014 16:13:55] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in - on line 381
+[24-Apr-2014 16:13:55] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[27-Apr-2014 22:26:02] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in - on line 381
+[27-Apr-2014 22:26:03] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[27-Apr-2014 22:26:25] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in - on line 381
+[27-Apr-2014 22:26:25] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[27-Apr-2014 22:27:10] PHP Fatal error:  Class 'Phar' not found in /home4/kovenet/public_html/motovideo/composer.phar on line 13
+[23-May-2014 20:41:38] PHP Parse error:  syntax error, unexpected T_SL in - on line 818
+[24-May-2014 13:11:26 America/Denver] PHP Fatal error:  require(): Failed opening required 'vendor/Slim/Slim.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/kovenet/public_html/motovideo/index.php on line 10
+[24-May-2014 13:12:57 America/Denver] PHP Fatal error:  require(): Failed opening required '/vendor/Slim/Slim.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/kovenet/public_html/motovideo/index.php on line 10
+[24-May-2014 13:14:13 America/Denver] PHP Fatal error:  require(): Failed opening required '/home4/kovenet/public_html/motovideovendor/Slim/Slim.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/kovenet/public_html/motovideo/index.php on line 10
+[24-May-2014 13:14:48 America/Denver] PHP Fatal error:  require(): Failed opening required '/home4/kovenet/public_html/motovideovendor/slim/Slim.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home4/kovenet/public_html/motovideo/index.php on line 10
